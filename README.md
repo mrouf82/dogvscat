@@ -3,7 +3,7 @@
 
 ## An application that offers fun and excitement for users of all ages. 
 
-## Application coded Mohammad Rouf, Cliff Horvick and Marco Estrada.
+## Application coded by Mohammad Rouf, Cliff Horvick and Marco Estrada.
 
 User story
 As an animal lover ....
